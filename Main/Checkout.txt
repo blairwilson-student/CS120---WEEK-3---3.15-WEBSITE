@@ -1,1 +1,19 @@
 This is the checkout page
+
+Users will be able to view the items in their basket (which they have selected on the "Shop" page) and
+pay for them.
+
+There will be an option to update the basket:
+    - Users can change the quantity of an item(s) in their basket.
+    - They can also completely remove an item from their basket.
+
+A "Complete Order" button will then prompt users to fill in their payment details after being clicked. The user can
+then select their preferred method of payment (eg, Visa, Mastercard, PayPal, Apple Pay etc).
+NOTE: If there are no items in the basket, the "Complete Order" button will not be clickable.
+
+After filling in their details, a "Confirm Payment" button can be clicked which will validate the payment
+data (making sure it is correct). If the payment details are invalid, an error message will prompt the user
+to fill in the form correctly.
+
+If the payment details are recognised however, the order will be processed and the user will be shown a
+screen which lets them know their order has been successful.
