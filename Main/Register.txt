@@ -1,1 +1,15 @@
 This is the registration page
+
+This page will have a form for customers to fill out.
+The form will include input boxes for personal information such as:
+
+Title
+Firstname
+Lastname
+Username
+Password
+Email Address
+
+There will be a submit button at the bottom of the form
+
+There will also be links to the privacy policy and a terms and conditions page
