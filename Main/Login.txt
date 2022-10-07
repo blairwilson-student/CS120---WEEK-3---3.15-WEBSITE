@@ -1,3 +1,13 @@
 This is the login page
 
-This page will ask for the customers
+This page will ask for the customers for their username and password
+
+There will be a submit button for customers to click once they have entered their username
+and password
+
+If the details are correct the button will take the customers to the home page
+
+There will be options to save login data for that page
+
+There will be a "forgot password" and "forgot username" link for customers that will provide them
+with options on how to recover their username or password
