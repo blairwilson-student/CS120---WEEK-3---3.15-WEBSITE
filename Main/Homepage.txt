@@ -5,3 +5,5 @@ This will contain a welcome title, special offers and social media links
 Sample text to test pull request from IntelliJ
 
 Development branch checkout test
+
+This is an example change
