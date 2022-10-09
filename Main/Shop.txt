@@ -1,1 +1,3 @@
 This is the shop page
+
+This will contain a grid layout of items and their prices with a pop up window for each item giving more details, colour options and "add to basket"
